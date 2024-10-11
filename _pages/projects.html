@@ -1,0 +1,23 @@
+---
+permalink: /projects
+title: "Projects"
+author_profile: true
+redirect_from:
+  - /projects/
+  - /projects.html
+---
+
+{% include base_path %}
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+<!--
+
+## XRe
+
+XRe is a small XR engine I develop, using OpenXR and DirectX 11, to get some experience
+with XR development, try out some ideas and just have fun programming. You can find the code
+on the [XRe github repo](https://github.com/Adrian-Hirt/XRe). -->
