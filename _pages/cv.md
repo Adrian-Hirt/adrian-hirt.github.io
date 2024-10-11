@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **MSc ETH Computer Science** • ETH Zürich • 2021-2023
+* **BSc ETH Computer Science** • ETH Zürich • 2016-2020
+
+---
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Sitrox AG** • Senior Software Engineer • 09/2023 - Present
+* **Sitrox AG** • Software Engineer • 09/2018 - 09/2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: Ruby, JavaScript, C++, Python, Java, C#, Haskell, CSS, HTML, Sass
+* **Machine Learning**: TensorFlow, Keras, Deep Learning, Large Language Models, Retrieval Augmented Generation, Hyperparameter Optimization
+* **Tools**: Git, Docker, Kubernetes, MySQL, PostgreSQL, CI/CD Pipelines, Spark SQL, DevOps, SAML, OpenID Connect, REST, Google Cloud Platform (GCP)
+* **Technical**: SaaS, Database Management, Cloud Computing, Parallel Computing, Linux Administration, Reliability Engineering, Performance Optimization, Debugging, Data Structures, Algorithms, Software Security, API development & documentation
+* **Computer Graphics**: OpenXR, OpenGL, DirectX 11, Shaders, Ray Tracing, 3D Geometry Processing, Augmented Reality, Virtual Reality, Mixed Reality Development
+* **Computer Vision**: SLAM, Structure from Motion (SfM), Point Cloud Processing, Feature Extraction
+* **Other Skills**: Agile Methodologies, Leadership, Performance Optimization, Mentoring, User Experience, Project Planning, Technical Documentation, Cross-Functional Collaboration
+* **Languages**: German (Native), English (C2), French (B2), Japanese (A1)
 
-Publications
+---
+
+Extracurricular activities & volunteering
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **VSETH GECo** • Board Member & Full Stack Developer • 10/2016 - 07/2023
+* **ETH Zürich, Department of Computer Science** • Member of the Department Conference • 03/2017 - 08/2018
+* **ETH Zürich, VIS (Association of Computer Science Students)** • Member of Committee "NachKomm" • 10/2016 - 09/2018
