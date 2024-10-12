@@ -2,6 +2,8 @@
 title: "L4N"
 excerpt: "L4N is a Ruby on Rails-based platform designed to simplify event management with customizable features, robust security, and a user-friendly interface."
 collection: projects
+daterange: "11/2020 - Today"
+orderkey: 1
 ---
 
 **Event management platform**

@@ -2,6 +2,8 @@
 title: "XRe"
 excerpt: "Harnessing the power of OpenXR and DirectX11, XRe provides a robust foundation for rendering 3D models, tracking movement, and creating interactive virtual experiences, ensuring seamless compatibility across various XR devices."
 collection: projects
+daterange: "06/2022 - Today"
+orderkey: 0
 ---
 
 **A Work-in-Progress XR Engine Built on OpenXR and DirectX11**

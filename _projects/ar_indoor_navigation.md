@@ -1,7 +1,9 @@
 ---
 title: "AR indoor navigation"
 excerpt: "Enhancing wayfinding with mixed reality technology using Unity & Hololens 2."
+daterange: "09/2022 - 02/2023"
 collection: projects
+orderkey: 2
 ---
 
 **Enhancing Wayfinding with Mixed Reality Technology**

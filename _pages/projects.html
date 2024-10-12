@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.projects %}
+{% assign projects = site.projects | sort: 'orderkey' %}
+
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
 
