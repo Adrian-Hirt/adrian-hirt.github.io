@@ -1,9 +1,9 @@
 ---
-permalink: /studies
+permalink: /studies/
 title: "Studies"
 author_profile: true
 redirect_from:
-  - /studies/
+  - /studies
   - /studies.html
 ---
 
