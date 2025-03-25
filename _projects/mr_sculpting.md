@@ -1,6 +1,6 @@
 ---
 title: "MR sculpting of voxelized building models"
-excerpt: "L4N is a Ruby on Rails-based platform designed to simplify event management with customizable features, robust security, and a user-friendly interface."
+excerpt: "A mixed reality application for sculpting voxelized building models using the Hololens 2, enabling hands-on architectural prototyping with real-time mesh updates via the Marching Cubes algorithm. Built with Unity and MRTK, it offers intuitive interactions, multiple workflows, and spatial placement for enhanced design exploration."
 daterange: "09/2021 - 01/2022"
 collection: projects
 orderkey: 3
