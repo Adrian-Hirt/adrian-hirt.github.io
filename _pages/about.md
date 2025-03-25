@@ -7,14 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome on my Website.
+I am a software engineer with a strong background in computer science, holding an MSc ETH in Computer Science from [ETH Zürich](https://ethz.ch/en.html){:target="_blank"}. My academic focus was on data management systems and computer graphics, with a deep personal interest in mixed reality. Currently, I work as a Senior Software Engineer at [Sitrox](https://www.sitrox.com/web/de/){:target="_blank"}.
 
-I've been very interested in computers for a long time, and as such I turned my passion into my profession and studied computer science at [ETH Zürich](https://ethz.ch/en.html){:target="_blank"}, from where I graduated with a MSc ETH in CS in 2023.
+Beyond my professional work, I am committed to continuous learning and enjoy exploring emerging technologies, particularly in XR and computer vision. Throughout my studies and personal projects, I have worked extensively in AR/VR, gaining hands-on experience through research and development.
 
-For more informations about my studies, please visit the [Studies Page]({% link _pages/studies.md %}).
+Outside of technology, I enjoy cycling, cosplaying, and DJing. Feel free to check out my [YouTube channel](https://www.youtube.com/@djaccelerate7644) for some of my mixes.
 
-Currently, I work as a Senior Software Engineer at [Sitrox](https://www.sitrox.com/web/de/){:target="_blank"}.
-
-Before I joined ETH Zürich, I attended the [Gymnasium Neufeld](https://gymneufeld.ch/){:target="_blank"} in Bern, with a focus on Biology & Chemistry and a minor in History. After that, I completed my mandatory army service at the Airforce base in Payerne, where I got promoted to Private First Class for good performance.
-
-In my free time, I enjoy riding my bikes, cosplaying or DJing. Check out [my youtube channel](https://www.youtube.com/@djaccelerate7644) for some mixes!
+For more details about my academic background, visit the [Studies Page]({% link _pages/studies.md %}).
