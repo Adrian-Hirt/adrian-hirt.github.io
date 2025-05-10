@@ -20,7 +20,8 @@ Education
 
 Work experience
 ======
-* **Sitrox AG** • Senior Software Engineer • 09/2023 - Present
+* **GetYourGuide** • Software Engineer • 05/2025 - Present
+* **Sitrox AG** • Senior Software Engineer • 09/2023 - 04/2025
 * **Sitrox AG** • Software Engineer • 09/2018 - 09/2023
 
 ---
